@@ -46,6 +46,5 @@ public class Scraper {
 		new Scraper();
 	
 	}
-	
 }
 	

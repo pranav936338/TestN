@@ -10,12 +10,14 @@ package testn;
  * @author prana
  */
 public class TestN {
-
+   
+    
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hi");
     }
     
 }
